@@ -1,0 +1,130 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="25.0.3">
+  <diagram name="Page-1" id="0783ab3e-0a74-02c8-0abd-f7b4e66b4bec">
+    <mxGraphModel dx="925" dy="481" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-5" value="Student" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-6" value="Profesor" style="shape=umlActor;html=1;verticalLabelPosition=bottom;verticalAlign=top;align=center;" vertex="1" parent="1">
+          <mxGeometry x="630" y="140" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-7" value="Căutare resurse educaționale" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-8" value="Descărcare material educațional" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="740" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-9" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="144.68" y="250" as="sourcePoint" />
+            <mxPoint x="145" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-11" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="250" as="sourcePoint" />
+            <mxPoint x="644.68" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-12" value="Autentificare în platformă" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-13" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="144.68" y="390" as="sourcePoint" />
+            <mxPoint x="145" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-15" value="Introduce un cuvânt-cheie" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="600" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-16" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="144.68" y="530" as="sourcePoint" />
+            <mxPoint x="145" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-17" value="Sistemul afișează rezultatele relevante" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="75" y="740" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-18" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="144.68" y="670" as="sourcePoint" />
+            <mxPoint x="145" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-19" value="Sistemul nu găsește rezultate relevante" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="740" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-20" value="Afișează un mesaj de eroare" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="880" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-21" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="dnsb0kd0dNwGnPiD4dCd-15" target="dnsb0kd0dNwGnPiD4dCd-19">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="215" y="774.36" as="sourcePoint" />
+            <mxPoint x="291.9200000000001" y="775.65" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-22" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="369.68" y="810" as="sourcePoint" />
+            <mxPoint x="370" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-23" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="644.6800000000001" y="530" as="sourcePoint" />
+            <mxPoint x="645" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-24" value="Autentificare în platformă" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="320" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-25" value="Navighează la materialul dorit" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="460" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-26" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="645" y="390" as="sourcePoint" />
+            <mxPoint x="644.68" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-27" value="Selectează opțiunea de descărcare" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="575" y="600" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-28" value="Sistemul detectează spațiu insuficient pe dispozitiv" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="740" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-29" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="644.6800000000001" y="670" as="sourcePoint" />
+            <mxPoint x="645" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-30" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;exitX=0.922;exitY=0.824;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.206;entryY=0.096;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="dnsb0kd0dNwGnPiD4dCd-27" target="dnsb0kd0dNwGnPiD4dCd-28">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="780" y="680" as="sourcePoint" />
+            <mxPoint x="780.3199999999999" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-31" value="Afișează un mesaj de avertizare" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="880" width="140" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-32" value="" style="edgeStyle=none;html=1;endArrow=block;endFill=0;endSize=12;verticalAlign=bottom;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="819.6800000000001" y="810" as="sourcePoint" />
+            <mxPoint x="820" y="880" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-33" value="Scenariul 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="110" y="70" width="80" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="dnsb0kd0dNwGnPiD4dCd-34" value="Scenariul 2" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="605" y="70" width="80" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
